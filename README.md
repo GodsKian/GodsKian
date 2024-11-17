@@ -1,4 +1,4 @@
-### <div align="center">I'm Kiana, A beginner in the programming world and ready and eager to learn 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Kiana, A beginner in the programming world and ready and eager to learn 👨‍💻 working since 2022 🚀</div>  
   
 
 - 🌱 I’m currently learning Wordpress and Network  
